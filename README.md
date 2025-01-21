@@ -66,7 +66,7 @@ At this point you should be set for running the program.
 4. Once you see
 
    ```
-   "The data has been written to: output\[user].txt."
+   The data has been written to: output\[user].txt
    ```
 
    That means that the program has finished running. The final text file will be in the output folder (this folder was created on the program's first run), the file will be named after the username.
