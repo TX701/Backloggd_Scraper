@@ -31,7 +31,7 @@ Visual Studio Code is what this program was created and tested with.
      You should have: script.js (and README.md, but you can delete it if you would like)
 
 4. Install [axios](https://axios-http.com/docs/intro) and [cheerio](https://cheerio.js.org/)
-     This can be done by running commands in your editor's terminal: enter the following commands
+     This can be done by running commands in your editor's terminal: 
 
      Axios install:
    ```
